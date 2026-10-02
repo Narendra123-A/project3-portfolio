@@ -1,0 +1,79 @@
+*** FILE: c:\Users\ambat\OneDrive\Desktop\Narendra_Resume.pdf ***
+=== Page 1 ===
+Ambati Narendra Kumar Reddy   
+BE-CSE (2022-2026)   
+ambatinarendra610@gmail.com   
++91-9182424714   
+________________________________________________________________________   
+LinkedIn: Narendra-LinkedIn | GitHub: Narendra-GitHub | LeetCode: Narendra-LeetCode   
+Objective   
+Aspiring software developer seeking a dynamic role to apply my programming and problem -solving 
+skills. Passionate about contributing to innovative projects and advancing technical expertise in a 
+growth-driven environment.   
+Technical Skills   
+Languages: Python | Web: HTML, CSS, PHP , JavaScript | Tools: windows, XAMPP                                               
+Concepts: Machine Learning, Database Queries, OOPS, Data Structures  
+Projects   
+✓ Developed Speak well, an AI-driven mobile app 
+✓ Climate Change Prediction – Compared SVM vs. Random Forest accuracy.   
+✓ Air Quality – Used ML to improve prediction and health insight.   
+✓ Blood Donor Web System – HTML/CSS/JS frontend, PHP backend.   
+Achievements & Certifications   
+✓ Academic Topper Award – AGNITO & Founder’s Day 2023 (SIMATS)   
+✓ NPTEL – Internet of Things    
+✓ Oracle Certified Professional: Java SE 17 Developer 
+✓ SIMATS -- Hackathon    
+    
+Education   
+• B.E. CSE, SIMATS Engineering – CGPA: 9.0 (2022–2026)   
+• 12th, Sri Chaitanya Jr. College – 95.2% (2020–2022)   
+• 10th, Sri Gowtham High School – 99.17% (2019–2020)   
+Languages Known   
+❖ Telugu  
+❖ English   
+❖ Tamil   
+Personal Details   
+• Date of Birth    - 19/01/2004   
+• Gender              - Male       
+• Nationality       - Indian       
+• Age                    - 21 years   
+• Address            - Kadapa, AP-516309  
+
+======================================
+
+*** FILE: c:\Users\ambat\OneDrive\Desktop\Resume.pdf ***
+=== Page 1 ===
+Ambati Narendra Kumar Reddy
+♂phone+91 9182424714✉ambatin22@gmail.com/linkedinambati-narendra-kumar-reddy/github192211960
+Skills
+Programming Languages:Java, Python
+F rontend:HTML, CSS, JavaScript, React
+Backend:Java (Spring Boot), Python (Flask)
+Database:MySQL
+Core Concepts:OOP, Data Structures & Algorithms (DSA), Computer Networks
+Projects
+SpeakW ell: AI-Powered English Speaking & Communication Learning App|HTML, CSS, JavaScript, Python (Flask)Jan 2026 – Apr 2026
+–Developed a responsive learning platform usingHTML, CSS, and JavaScript, delivering an intuitive and
+engaging user experience.
+–Built the backend usingPython (Flask)for secure user authentication, learning session management, progress
+tracking, and data handling.
+–Integrated anAI chatbotto enable real-time conversational English practice and improve user engagement.
+–ImplementedAI-based speech evaluationto analyze pronunciation, fluency, and speaking accuracy with
+personalized feedback.
+–Designed daily progress tracking and session scheduling features to encourage consistent learning and monitor
+improvement.
+–Project Repository: github.com/narendra192211960
+Experience
+F resher
+–Looking for an entry-level Software Developer opportunity to apply strong knowledge ofJava, Python, Spring
+Boot, Flask, React, MySQL, OOP , and DSA.
+Achievements
+–Academic Topper Award – Secured the highest academic performance during the First Year of Bachelor of Engineering.
+–Oracle Certified Professional:Java SE 17 Developer.
+Education
+Saveetha School of EngineeringChennai, India
+Bachelor of Engineering (B.E.) in Computer Science CGPA:8.962022 – 2026
+Sri Chaitanya Junior CollegeTirupati, India
+Intermediate (BIEAP) Percentage:95.2%2020 – 2022
+Sri Gowtham High SchoolKadapa, India
+Secondary School Certificate (SSC) Percentage:99.17%2019 – 2020
